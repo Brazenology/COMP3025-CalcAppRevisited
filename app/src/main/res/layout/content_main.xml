@@ -25,7 +25,8 @@
         android:textSize="60dp"
         android:textAlignment="textEnd"
         android:background="#848484"
-        android:textColor="#ffffff" />
+        android:textColor="#ffffff"
+        android:nestedScrollingEnabled="true" />
 
     <Button
         android:layout_width="82dp"
